@@ -3,6 +3,7 @@ package com.company;
 import java.util.Random;
 
 public class Main {
+    //test
     public static String[] heroesAttackType = {"Physical", "Magical", "Kinetic", "Medic"};
     public static int[] heroesHeals = {270, 280, 260, 290};
     public static int[] heroesDamage = {20, 15, 25, 0};
